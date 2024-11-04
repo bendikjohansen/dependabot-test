@@ -14,7 +14,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router": "^5.3.3",
-    "tlds": "^1.216.0",
+    "tlds": "^1.255.0",
     "yup": "^1.2.0"
   },
   "devDependencies": {
