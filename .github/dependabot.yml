@@ -6,8 +6,5 @@ updates:
       interval: "weekly"
     groups:
       non-breaking:
-        update-types:
-          - "patch"
-          - "minor"
         patterns:
           - "*"
