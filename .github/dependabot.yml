@@ -6,9 +6,7 @@ updates:
     schedule:
       interval: "weekly"
     groups:
-      non-breaking:
-        update-types:
-          - "patch"
-          - "minor"
+      security:
+        applies-to: security-updates
         patterns:
           - "*"
